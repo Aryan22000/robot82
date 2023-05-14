@@ -1,0 +1,13 @@
+Group 16 
+EV3 robot 82 
+1)Aryan Mohammadi
+2)Mohammadreza Dejamfard
+We catched the robot from Mr.Lahti from Applied Application Project course.
+We worked on it with 2 sensor color sensor and ultrasonic sensor to robot detect the black line and find the obstacle.
+now we created the website from that the robot catched the speed from user and uploaded in database and we have 2 table in database speeds and info.
+In info table we have 2 column first time and distance.
+We learn more thing in class and read many thing from sites and our friends.
+We worked with together at 5 classes in 82 folder and about sites in "New" folder.
+We had many problem in database and connect the robot to dabase and conversely.
+thank you Mr.Pentti
+"group 16"
